@@ -11,4 +11,5 @@ libraryDependencies ++= Seq(
 	javaEbean,
 	cache,
 	javaWs,
+	"com.github.fdimuccio" %% "play2-sockjs" % "0.3.1"
 )
